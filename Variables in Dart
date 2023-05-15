@@ -1,0 +1,20 @@
+void main()
+{
+  String name="Shomu Rahman";
+  String adress="BD";
+  var ZipCode=1270;
+  double cgpa= 3.47;
+  num age= 23;
+  num height=5.9;
+  bool married=false;
+
+
+  print("Name is- $name");
+  print("Height is- $height");
+  print("Adress is- $adress");
+  print("Height is- $ZipCode");
+  print("CGPA is- $cgpa");
+  print("Age is- $age");
+  print("Married Status is- $married");
+
+}
