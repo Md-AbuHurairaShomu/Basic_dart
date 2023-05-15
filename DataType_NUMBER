@@ -1,0 +1,20 @@
+void main() {
+  // For Declaring Variables
+  int Value1 = 100; // without decimal point.
+  double Value2 = 130.2; // with decimal point.
+  num Value3 = 50;
+  num  Value4 = 50.4;
+
+// For Sum & Mul
+  num sum = Value1 + Value2 + Value3 + Value4;
+  num mul = Value1*Value2*Value3*Value4;
+
+// For Printing
+  print("Value 1 is $Value1");
+  print("Value 2 is $Value2");
+  print("Value 3 is $Value3");
+  print("Value 4 is $Value4");
+  print("Sum is $sum");
+  print("Mul is $mul");
+
+}
