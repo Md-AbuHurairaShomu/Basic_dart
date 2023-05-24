@@ -2,8 +2,13 @@ void main(){
   int t=200;
   double p=3.455;
   var s=true;
+  //var s=223;
+  dynamic  age=123;
+  age='shomu';
 
   print(t.runtimeType);
   print(p.runtimeType);
   print(s.runtimeType);
+  print(age.runtimeType);
+  print(age);
 }
